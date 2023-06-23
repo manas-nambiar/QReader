@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446258597128",
+    "project_id": "qrcodesfornoobs",
+    "storage_bucket": "qrcodesfornoobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446258597128:android:dd3e0ad5f85a0f569030bd",
+        "android_client_info": {
+          "package_name": "com.example.qrcodesfornoobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446258597128-slfcqlid46bgd9lm6srldst7qkd7a8hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNafPuwZXhBmPiCwV7nhiae73avrrxcbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446258597128-slfcqlid46bgd9lm6srldst7qkd7a8hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:stretchColumns="2">
+
+    <TableRow>
+        <androidx.cardview.widget.CardView
+            android:layout_width="70dp"
+            android:layout_height="60dp"
+            android:backgroundTint="@color/background"
+            app:cardCornerRadius="0dp">
+
+            <TextView
+                android:id="@+id/rank_textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Rank 1"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:gravity="center"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_column="2"
+            android:backgroundTint="@color/background"
+            app:cardCornerRadius="0dp">
+
+            <TextView
+                android:id="@+id/player_textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Player 1"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/background"
+            app:cardCornerRadius="0dp">
+
+            <TextView
+                android:id="@+id/score_textView"
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:text="Score 1"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </androidx.cardview.widget.CardView>
+
+
+    </TableRow>
+</TableLayout>

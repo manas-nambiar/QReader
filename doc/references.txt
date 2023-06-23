@@ -1,0 +1,21 @@
+This file will contains some of the main resources we use for the functionality of this project:
+
+Material on eClass such as lab slides, forums posts and lab code.
+
+Firebase: https://youtube.com/playlist?list=PLQ9S01mirRdWjH9jFe1f7yeruTX-lLHGF + their online documentation.
+
+CompletableFuture: https://www.callicoder.com/java-8-completablefuture-tutorial/
+
+Location awareness: https://developer.android.com/training/location
+
+Navigation bar: https://www.youtube.com/watch?v=Bb8SgfI4Cm4&ab_channel=Foxandroid
+
+Zebra Crossing: https://www.geeksforgeeks.org/how-to-read-qr-code-using-zxing-library-in-android/
+
+Caching Login: https://stackoverflow.com/questions/9964480/how-to-display-login-screen-only-one-time
+
+Photo related actions:
+https://www.youtube.com/watch?v=XRD-lVwlSjU&ab_channel=CodingwithDev
+https://www.youtube.com/watch?v=g2Iibnnqga0&ab_channel=Foxandroid
+
+Google map SDK: https://developers.google.com/maps/documentation/android-sdk/start#console_2

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@null"
+        android:icon="@drawable/ic_baseline_home_50"
+        android:id="@+id/home"/>
+    <item
+        android:title="@null"
+        android:icon="@drawable/ic_baseline_search_50"
+        android:id="@+id/search"/>
+    <item
+        android:title="@null"
+        android:icon="@drawable/ic_baseline_add_circle_50"
+        android:id="@+id/camera"/>
+    <item
+        android:title="@null"
+        android:icon="@drawable/ic_baseline_leaderboard_50"
+        android:id="@+id/leaderboard"/>
+    <item
+        android:title="@null"
+        android:icon="@drawable/ic_baseline_map_50"
+        android:id="@+id/map"/>
+</menu>

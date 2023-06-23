@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.qrcodesfornoobs"},{"l":"com.example.qrcodesfornoobs.Activity"},{"l":"com.example.qrcodesfornoobs.Adapter"},{"l":"com.example.qrcodesfornoobs.Fragment"},{"l":"com.example.qrcodesfornoobs.Models"},{"l":"com.example.qrcodesfornoobs.Tools"}]

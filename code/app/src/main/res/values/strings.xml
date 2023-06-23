@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QRCodesForNoobs</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="temp_nav_bar">NAV BAR</string>
+    <string name="temp_top_player">IM_#1</string>
+    <string name="temp_top_player_score">2750 pts</string>
+    <string name="rank_text">Rank</string>
+    <string name="player_text">Player</string>
+    <string name="score_text">Score</string>
+    <string name="qreature">piQtuRe</string>
+    <string-array name="filter_options">
+        <item>SCORE (ASCENDING)</item>
+        <item>SCORE (DESCENDING)</item>
+    </string-array>
+</resources>
